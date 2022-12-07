@@ -47,8 +47,8 @@
 
 using System;
 using DevExpress.Web.ASPxScheduler;
-using DevExpress.Web.ASPxEditors;
-using DevExpress.Web.ASPxClasses.Internal;
+using DevExpress.Web;
+using DevExpress.Web.Internal;
 
 public partial class InplaceEditor : SchedulerFormControl {
 	protected void Page_Load(object sender, EventArgs e) {

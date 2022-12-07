@@ -49,8 +49,8 @@
 Imports Microsoft.VisualBasic
 Imports System
 Imports DevExpress.Web.ASPxScheduler
-Imports DevExpress.Web.ASPxEditors
-Imports DevExpress.Web.ASPxClasses.Internal
+Imports DevExpress.Web
+Imports DevExpress.Web.Internal
 
 Partial Public Class InplaceEditor
 	Inherits SchedulerFormControl

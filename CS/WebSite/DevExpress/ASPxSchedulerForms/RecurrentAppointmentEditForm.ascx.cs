@@ -35,7 +35,7 @@
 
 using System;
 using DevExpress.Web.ASPxScheduler;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 
 public partial class RecurrentAppointmentEditForm : SchedulerFormControl {
 	protected void Page_Load(object sender, EventArgs e) {

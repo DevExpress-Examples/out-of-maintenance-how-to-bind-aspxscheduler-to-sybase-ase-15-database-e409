@@ -34,7 +34,7 @@
 
 Imports Microsoft.VisualBasic
 Imports System
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 Imports DevExpress.Web.ASPxScheduler
 
 Partial Public Class GotoDateForm

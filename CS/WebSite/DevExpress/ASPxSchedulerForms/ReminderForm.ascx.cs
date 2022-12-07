@@ -11,7 +11,7 @@ using System.Web.UI.HtmlControls;
 using DevExpress.Web.ASPxScheduler;
 using DevExpress.XtraScheduler;
 using DevExpress.Web.ASPxScheduler.Internal;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 using DevExpress.XtraScheduler.Native;
 using DevExpress.XtraScheduler.Localization;
 

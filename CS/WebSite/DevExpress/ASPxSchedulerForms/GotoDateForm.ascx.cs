@@ -32,7 +32,7 @@
 */
 
 using System;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 using DevExpress.Web.ASPxScheduler;
 
 public partial class GotoDateForm : SchedulerFormControl {
