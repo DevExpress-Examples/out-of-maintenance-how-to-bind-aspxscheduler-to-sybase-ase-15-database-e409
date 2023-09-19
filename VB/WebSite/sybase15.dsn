@@ -1,6 +1,0 @@
-[ODBC]
-DRIVER=Adaptive Server Enterprise
-UID=sa
-port=5000
-server=zaytsev_xp
-database=schedule
